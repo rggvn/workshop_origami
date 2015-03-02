@@ -1,3 +1,3 @@
-# workshop_origami
+# workshop origami
 
 workfiles for my workshop for the origami plugin for quartz composer
